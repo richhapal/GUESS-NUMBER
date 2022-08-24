@@ -1,4 +1,4 @@
-# GUESS-NUMER
+# GUESS-NUMBER
 
 Game Rules:
 1. Random number will generated bewteen 1 to 20.<br>
